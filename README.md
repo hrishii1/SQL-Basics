@@ -27,5 +27,6 @@ The `SELECT` statement is used to query data from a database.
 **Syntax:**
 ```sql
 SELECT column1, column2, ... FROM table_name;
+Example: SELECT first_name, last_name FROM customers;
 
-## 2. 
+## 2. INSERT 
